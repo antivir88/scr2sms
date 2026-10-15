@@ -4,7 +4,7 @@
 `256×192` (`.scr`, ровно 6912 байта):
 
 ```bash
-python3 tools/scr2sms.py ~/.clonesms/screens -o spectrum-album.sms
+python3 ./scr2sms.py ./screens -o spectrum-album.sms
 ```
 
 ROM использует стандартный Sega mapper. Каждый экран получает отдельный банк
